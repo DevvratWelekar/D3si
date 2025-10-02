@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvratwelekar2003&label=Profile%20views&color=0e75b6&style=flat" alt="devvratwelekar2003" /> </p>
 
-- 🔭 I’m currently working on **IPL-Data-Analysis**
+- 🔭 I’m currently working on **Ocean Wave Height Prediction**
 
 - 🌱 I’m currently learning **Python Libraries, R packages and SQL**
 
-- 👯 I’m looking to collaborate on **Crime Data Analysis**
+- 👯 I’m looking to collaborate on **Design of Sensing Oil Moisture Content by Auto Irrigation System**
 
 - 📫 How to reach me **devwelekar@gmail.com**
 
