@@ -1,28 +1,64 @@
-<h1 align="center">Hi 👋, I'm Devvrat Welekar</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h1 align="center"><b>Hi, I'm Devvrat Welekar </b><img src="https://media.giphy.com" width="35"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvratwelekar2003&label=Profile%20views&color=0e75b6&style=flat" alt="devvratwelekar2003" /> </p>
-
-- 🔭 I’m currently working on **Youtube clone**
-
-- 🌱 I’m currently learning **Python Libraries, R packages and SQL**
-
-- 👯 I’m looking to collaborate on **Design of Sensing Oil Moisture Content by Auto Irrigation System**
-
-- 📫 How to reach me **devwelekar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devvrat welekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devvrat welekar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io"><img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## <img src="https://i.pinimg.com" width="7.5%"> About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devvratwelekar2003&show_icons=true&locale=en&layout=compact" alt="devvratwelekar2003" /></p>
+- **Science graduate passionate about Data Analytics**
+- **Currently building expertise in machine learning and business intelligence**
+- **🤓 Always learning new things**
+- **I’m currently open for an intern or a new job opportunity**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvratwelekar2003&show_icons=true&locale=en" alt="devvratwelekar2003" /></p>
+<img align="right" src="https://github.com" width="35%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvratwelekar2003&" alt="devvratwelekar2003" /></p>
+## <img src="https://media2.giphy.com" width="25"><b> Skills</b>
 
+### Languages & Tools:
 
+[![Python](https://img.shields.io)](#)
+[![C](https://img.shields.io)](#)
+[![SQL](https://img.shields.io)](#)
+[![Power BI](https://custom-icon-badges.demolab.com)](#)
+[![Excel](https://img.shields.io)](#)
+
+### Soft Skills:
+
+Leadership, Teamwork, Communication, Decision Making, Conflict Resolution, Adaptability.
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com" target="blank">
+    <img align="center" src="https://custom-icon-badges.demolab.com)](#) " height="30""")/>>
+  </a>
+  <a href="mailto:devwelekar@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io)](#)" height="30""")/>>
+  </a>
+  <a href="https://github.com" target="blank">
+    <img align="center" src="https://img.shields.io)](#)" height="30""")/>>
+  </a>
+</p>
+
+## <img src="" width="25"><b> Projects</b>
+
+### Skin Disease Prediction
+
+*   **Deep Learning** based skin disease classification system co-developed in a 5-member team using the HAM10000 dataset.
+
+### Car Rental System
+
+*   **Python** project utilizing **Object-Oriented Programming** concepts to manage vehicles, customers, bookings, and billing logic.
+
+<p align="center">
+  <a href="https://github.com?tab=repositories" target="_blank">
+    <img src="https://img.shields.io">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://readme-typing-svg.herokuapp.com!">
+  </a>
+</p>
