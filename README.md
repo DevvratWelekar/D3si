@@ -1,64 +1,71 @@
-<h1 align="center"><b>Hi, I'm Devvrat Welekar </b><img src="https://media.giphy.com" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Devvrat Welekar 👋
+</h1>
 
 <p align="center">
-  <a href="https://git.io"><img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Analytics+Enthusiast;Python+Developer;Machine+Learning+Learner;Always+Learning+New+Things" />
 </p>
 
-## <img src="https://i.pinimg.com" width="7.5%"> About Me
+---
 
-- **Science graduate passionate about Data Analytics**
-- **Currently building expertise in machine learning and business intelligence**
-- **🤓 Always learning new things**
-- **I’m currently open for an intern or a new job opportunity**
+## 👨‍💻 About Me
 
-<img align="right" src="https://github.com" width="35%">
+- 🎓 Science graduate passionate about **Data Analytics**
+- 📊 Building expertise in **Machine Learning & Business Intelligence**
+- 🤓 Always learning new things
+- 💼 Open to **Internship / Job Opportunities**
 
-## <img src="https://media2.giphy.com" width="25"><b> Skills</b>
+<img align="right" alt="coding" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Languages & Tools:
+---
 
-[![Python](https://img.shields.io)](#)
-[![C](https://img.shields.io)](#)
-[![SQL](https://img.shields.io)](#)
-[![Power BI](https://custom-icon-badges.demolab.com)](#)
-[![Excel](https://img.shields.io)](#)
+## 🛠 Skills
 
-### Soft Skills:
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Leadership, Teamwork, Communication, Decision Making, Conflict Resolution, Adaptability.
+### Soft Skills
+- Leadership  
+- Teamwork  
+- Communication  
+- Decision Making  
+- Adaptability  
 
-## Connect with Me
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="blank">
-    <img align="center" src="https://custom-icon-badges.demolab.com)](#) " height="30""")/>>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:devwelekar@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io)](#)" height="30""")/>>
+  <a href="mailto:devwelekar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com" target="blank">
-    <img align="center" src="https://img.shields.io)](#)" height="30""")/>>
-  </a>
-</p>
-
-## <img src="" width="25"><b> Projects</b>
-
-### Skin Disease Prediction
-
-*   **Deep Learning** based skin disease classification system co-developed in a 5-member team using the HAM10000 dataset.
-
-### Car Rental System
-
-*   **Python** project utilizing **Object-Oriented Programming** concepts to manage vehicles, customers, bookings, and billing logic.
-
-<p align="center">
-  <a href="https://github.com?tab=repositories" target="_blank">
-    <img src="https://img.shields.io">
+  <a href="https://github.com/devvratwelekar2003">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
+
+## 🚀 Projects
+
+### 🧠 Skin Disease Prediction
+- Deep Learning–based skin disease classification system  
+- Built using **HAM10000 dataset**
+- Team project (5 members)
+
+### 🚗 Car Rental System
+- Python-based project using **OOP concepts**
+- Manages vehicles, customers, bookings, and billing logic
+
+---
+
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://readme-typing-svg.herokuapp.com!">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me+😊"/>
 </p>
