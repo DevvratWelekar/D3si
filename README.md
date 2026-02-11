@@ -28,14 +28,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Soft Skills
-- Leadership  
-- Teamwork  
-- Communication  
-- Decision Making  
-- Adaptability  
-
----
 
 ## 🔗 Connect With Me
 
@@ -51,20 +43,6 @@
   </a>
 </p>
 
----
-
-## 🚀 Projects
-
-### 🧠 Skin Disease Prediction
-- Deep Learning–based skin disease classification system  
-- Built using **HAM10000 dataset**
-- Team project (5 members)
-
-### 🚗 Car Rental System
-- Python-based project using **OOP concepts**
-- Manages vehicles, customers, bookings, and billing logic
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me+😊"/>
