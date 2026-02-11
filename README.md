@@ -8,10 +8,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.E. in Computer Science** student passionate about **Data Science** and **Machine Learning**.
-- 📊 Recently completed a **Data Analytics Internship** at Vital Skills, improving data accuracy by 73%.
-- 🔬 Published a **research survey paper** on deep learning approaches in medical image classification.
-- 💼 Open to **Job Opportunities** in Data Science and Analytics.
+- 🎓 **B.E. Computer Science** student with a focus on **Data Science** and **Machine Learning**.
+- 🔬 Research-oriented with a published paper on **Deep Learning** in medical image classification.
+- 📊 Passionate about translating complex data into actionable business insights.
+- 💼 Open to **Job & Internship Opportunities** in the Data domain.
 
 ---
 
@@ -38,18 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩺 Skin Disease Prediction
-- **Description:** Led a team to build a **CNN model** for multi-class classification on the HAM10000 dataset (10,000+ images).
-- **Tech:** TensorFlow, Keras, Data Augmentation.
-
-### 🚗 Car Rental System
-- **Description:** Full-stack **Django web application** featuring a dynamic billing system and role-based access control.
-- **Tech:** Python, Django, SQLite3, Bootstrap 5.
-
----
-
 ## 📜 Certifications
 - 👁️ **Computer Vision** – NPTEL Swayam (2025)
 - 🏗️ **Data Engineering** – Eduskills (2025)
@@ -60,16 +48,19 @@
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io""")/>>
+    <img src="https://img.shields.io" />
   </a>
   <a href="mailto:devwelekar@gmail.com">
-    <img src="https://img.shields.io""")/>>
+    <img src="https://img.shields.io" />
   </a>
   <a href="https://github.com">
-    <img src="https://img.shields.io""")/>>
+    <img src="https://img.shields.io" />
+  </a>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://img.shields.io" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com!+🚀""")/>>
+  <img src="https://readme-typing-svg.herokuapp.com!+😊" />
 </p>
