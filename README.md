@@ -69,14 +69,14 @@ I am a B.Tech Computer Science graduate passionate about turning complex data in
 
 ## 🚀 Featured Projects
 
-### 🏥 [Skin Disease Prediction System](https://github.com/devvratwelekar)
+### 🏥 [Skin Disease Prediction System](https://github.com/DevvratWelekar)
 > **Stack:** PyTorch, FastAPI, Docker, MLflow, Vision Transformers
 * Spearheaded a 5-member team to build a multi-class skin lesion classifier trained on **10,000+ HAM10000 images**.
 * Achieved **94.2% diagnostic accuracy** using fine-tuned ViTs and EfficientNet.
 * Implemented **Grad-CAM visualization heatmaps** to provide explainability for the deep learning model's decision boundaries.
 * *Authored and published a peer-reviewed research survey paper on this architecture.*
 
-### 💸 [GenAI-Powered SQL Analytics & Financial Reporting](https://github.com/devvratwelekar)
+### 💸 [GenAI-Powered SQL Analytics & Financial Reporting](https://github.com/DevvratWelekar/GenAI-SQL-Analytics-and-Financial-Reporting)
 > **Stack:** Python, LangChain, DuckDB, Power BI, Advanced DAX
 * Engineered a production-level **Text-to-SQL RAG pipeline**, empowering non-technical stakeholders to query complex databases using natural language.
 * Integrated **DuckDB** to optimize analytical workloads, slashing data retrieval latency by **60%**.
@@ -87,8 +87,7 @@ I am a B.Tech Computer Science graduate passionate about turning complex data in
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvratwelekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevvratWelekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
 
 ---
